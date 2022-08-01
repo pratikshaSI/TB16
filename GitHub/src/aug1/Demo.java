@@ -3,7 +3,7 @@ package aug1;
 public class Demo {
 	public void m1()
 	{
-	System.out.println("hub2");
+	System.out.println("hub222");
 
 	}
 	
