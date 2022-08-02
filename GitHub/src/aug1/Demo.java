@@ -3,6 +3,7 @@ package aug1;
 public class Demo {
 	public void m1()
 	{
+		System.out.println("Change");
 	}
 	
 	public static void main(String[] args) {
