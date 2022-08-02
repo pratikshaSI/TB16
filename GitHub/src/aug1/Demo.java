@@ -10,6 +10,11 @@ public class Demo {
 	public void m2()
 	{
 	System.out.println("Pritam");
+        }
+	
+	public void m3()
+	{
+	System.out.println("New Changes By Pritam");
 
 	}
 	
